@@ -1,4 +1,4 @@
-First try to generate translator's intergloss helper files.
+My first try to generate translator's intergloss helper files.
 
 The file `bible.tex` includes the lexicon definitions `lexicon.tex` (to be continuously changed), the definitions of the books' names `booknames.tex` and the actual content of every verse `words.tex`.
 
